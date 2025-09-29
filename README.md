@@ -1,5 +1,5 @@
 # OpenWeather-App
-View 24-hour weather forecasts for your desired city
+- View 24-hour weather forecasts for your desired city. The API used - OpenWeatherMap API
 
 ## Backend
 
@@ -17,3 +17,41 @@ View 24-hour weather forecasts for your desired city
 
 - Select City/Lat-lon value
 - View 24-hour forecast
+
+## Setup
+
+### Virtual environments and installations
+```
+python -m venv myenv
+```
+```
+source myenv/bin/activate
+```
+```
+pip install -r requirements.txt
+```
+```
+npm install
+```
+
+### Backend
+```
+python main.py
+```
+
+### Frontend
+```
+npm run dev
+```
+
+- The app will be hosted in http://localhost:3000
+
+## Scope for improvement
+
+- The UI can be more styled
+- More info can be retrieved from the API
+
+
+
+
+
