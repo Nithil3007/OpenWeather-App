@@ -1,7 +1,7 @@
 # OpenWeather-App
 - View 24-hour weather forecasts for your desired city. The API used - OpenWeatherMap API
 
-## Backend
+## Backend 
 
 ### Fast API
 
@@ -13,9 +13,11 @@
 
 ## Frontend
 
+-  used typescript
+
 ### Features
 
-- Select City/Lat-lon value
+- Select City
 - View 24-hour forecast
 
 ## Setup
